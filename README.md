@@ -45,7 +45,8 @@ Epoch 3/3
 
  ## Author
 
-Ali Zaman
+Ali Zamanpour 
+
 Freelance Data Engineer & AI Specialist
 
 Expertise: Python, Machine Learning, Deep Learning
