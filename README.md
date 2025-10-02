@@ -15,9 +15,13 @@ It demonstrates how to preprocess datasets, train models, and evaluate performan
 ---
 
 ##  Project Structure
+
 ml-model-examples/
+
 ├── train_mnist.py # Train a neural network on MNIST dataset
+
 ├── dataset/ # Example dataset (downloaded automatically)
+
 └── saved_model/ # Trained model weights
 
 
